@@ -5,7 +5,7 @@
 ## Hi there! 🐣
 I'm Fadik, a frontend developer based in Berlin, Germany. My career began in games industry building mobile📱 games and later moved to fintech building web🕸️ applications.
 
-When I'm tired of screens, I like crocheting. You can see some of my work in [ravelry](https://www.ravelry.com/projects/fadik-makes) and [instagram](https://www.instagram.com/fadik._.makes/).
+>When I'm tired of screens, I like crocheting. You can see some of my work in [ravelry](https://www.ravelry.com/projects/fadik-makes) and [instagram](https://www.instagram.com/fadik._.makes/).
 
 ## Languages and Technologies I used so far in development
 
